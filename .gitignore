@@ -1,6 +1,10 @@
 .env
 *.key
 *.pem
+relay.db
+relay.db-journal
+relay.db-wal
+relay.db-shm
 node_modules/
 .venv/
 venv/
